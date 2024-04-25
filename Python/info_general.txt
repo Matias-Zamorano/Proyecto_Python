@@ -1,0 +1,51 @@
+En esta carpeta de pyton se veran las distintas bases de python de una forma ordenada y que se pueda entender a simple vista 
+
+Las cuales comenzaremos con lo mas basicos a lo mas complicado.
+
+"acciones base", son el comienzo de python
+
+
+- Datos simples
+- Variables
+- Datos compuestos
+- Operadores aritméticos
+- Condicionales
+- Operadores de comparación
+- Operadores lógicos
+
+"acciones basicas",son distintos metodos que se van a diarios en el codigo.
+
+- Métodos de cadenas
+- Métodos de listas
+- Métodos de diccionarios
+- Entrada de datos (inputs)
+- Ejercicios prácticos 1 
+
+"acciones intermedias", son 
+
+- Variables 2.0
+- Diccionarios 2.0
+- Bucle For
+- Bucle While
+- Funciones integradas
+- Creando funciones propias
+- Funciones Lambda
+- Ejercicios prácticos 2
+
+
+"acciones semi avanzadas"
+
+- Módulos
+- Enrutamiento de módulos
+- Paquetes
+- Archivos TXT
+- Archivos CSV
+- Trabajando con archivos
+- Trabajando con gráficos
+
+"acciones avanzadas"
+
+- Excepciones
+- Expresiones regulares
+- Analizando Expresiones regulares
+- Ejercicio de de Expresiones regulares
